@@ -23,7 +23,7 @@ def date_str_to_time(date_str):  # Converts from string to time object
 def get_coordinates_and_validate():
     while True:
         try:
-            location = int(input("Enter your location (Ashdod is 295629):  "))
+            location = int(input("Enter your location (Ashdod is 295629):   "))
             # Cases of exception
         except ValueError:
             print("The coordinates must be an integer/number ,try new input")
