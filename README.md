@@ -1,3 +1,3 @@
-# Saturday Entry App
+# Shabbat times application 
 ------------------------
 # pip install requests
